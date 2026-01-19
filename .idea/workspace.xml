@@ -5,28 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="465d7199-0718-472d-b790-3d923b30716a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tecnicas-programacion-oop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejemplopython" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjemplosMundoReal_POO/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjemplosMundoReal_POO/.idea/EjemplosMundoReal_POO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjemplosMundoReal_POO/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjemplosMundoReal_POO/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjemplosMundoReal_POO/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjemplosMundoReal_POO/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjemplosMundoReal_POO/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjemplosMundoReal_POO/sistema_hotel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjemplosMundoReal_POO/tienda_virtual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProject-" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstraccion/ejemplo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulacion/ejemplo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herencia/ejemplo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polimorfismo/ejemplo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,16 +42,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.tarea-tipos-datos-python.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "backup-antiguo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.tarea-tipos-datos-python.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;backup-antiguo&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
