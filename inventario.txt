@@ -1,0 +1,22 @@
+# Inventario - 2026-02-28 08:47:00
+# Formato: dummy|id|nombre|cantidad|precio
+dummy|1|Arroz 5kg|50|12.50
+dummy|2|Frijoles 1kg|30|3.20
+dummy|3|Aceite Oliva 1L|25|8.75
+dummy|4|Leche Entera 1L|80|1.20
+dummy|5|Pan Integral|120|0.85
+dummy|6|Azúcar 2kg|40|2.10
+dummy|7|Harina 5kg|35|4.50
+dummy|8|Atún en Lata|60|1.80
+dummy|9|Macarrones 500g|45|1.45
+dummy|10|Jugo Naranja 1L|70|2.30
+dummy|11|Cuaderno A4|100|1.50
+dummy|12|Lápices HB|200|0.25
+dummy|13|Borrador|150|0.40
+dummy|14|Regla 30cm|80|0.80
+dummy|15|Carpetas|60|2.00
+dummy|16|Cepillo Dientes|90|1.20
+dummy|17|Pasta Dental|75|2.80
+dummy|18|Jabón Líquido|40|3.50
+dummy|19|Papel Higiénico|55|1.90
+dummy|20|Desodorante|35|4.20
